@@ -1,0 +1,59 @@
+<Sentence id="1">
+0	ਗੁੱਸੇ	unk
+1	'ਚ	unk
+2	ਉਹ	unk
+3	ਕਿਸੇ	unk
+4	ਨੂੰ	unk
+5	ਵੀ	unk
+6	ਪੁੱਠਾ	unk
+7	-	unk
+8	ਸਿੱਧਾ	unk
+9	ਬੋਲ	unk
+10	ਦਿੰਦਾ	unk
+11	ਹੈ	unk
+12	।	unk
+</Sentence>
+
+<Sentence id="2">
+0	'ਚ	unk
+1	ਉਹ	unk
+2	ਕਿਸੇ	unk
+3	ਨੂੰ	unk
+4	ਵੀ	unk
+5	ਪੁੱਠਾ	unk
+6	-	unk
+7	ਸਿੱਧਾ	unk
+8	ਬੋਲ	unk
+9	ਦਿੰਦਾ	unk
+10	ਹੈ	unk
+11	।	unk
+</Sentence>
+
+<Sentence id="3">
+0	ਰੋਗੀ	unk
+1	ਕਿਰਿਆ	unk
+2	-	unk
+3	ਰਹਿਤ	unk
+4	ਅਵਸਥਾ	unk
+5	ਵਿੱਚ	unk
+6	ਬਿਸਤਰੇ	unk
+7	'ਤੇ	unk
+8	ਪਿਆ	unk
+9	ਹੈ	unk
+10	।	unk
+</Sentence>
+
+<Sentence id="4">
+0	ਉਹ	unk
+1	ਸਵੇਰੇ	unk
+2	-	unk
+3	ਸਵੇਰੇ	unk
+4	ਮੱਝ	unk
+5	ਦਾ	unk
+6	ਦੁੱਧ	unk
+7	'ਚੋ	unk
+8	ਲੈਂਦੀ	unk
+9	ਹੈ	unk
+10	।	unk
+</Sentence>
+

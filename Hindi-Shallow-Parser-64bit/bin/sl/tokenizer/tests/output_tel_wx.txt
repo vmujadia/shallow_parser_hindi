@@ -1,0 +1,1461 @@
+<Sentence id="1">
+0	I	unk
+1	pattaNamu	unk
+2	6,00,000	unk
+3	janABAwo	unk
+4	rARtraM	unk
+5	loni	unk
+6	nAlugava	unk
+7	peVxxa	unk
+8	nagaramu	unk
+9	.	unk
+</Sentence>
+
+<Sentence id="2">
+0	1995eVoOYeVO	unk
+1	nagarapAlaka	unk
+2	saMsWagA	unk
+3	mArca	unk
+4	badinaxi	unk
+5	.	unk
+</Sentence>
+
+<Sentence id="3">
+0	rElve	unk
+1	jaMkRan	unk
+2	:	unk
+</Sentence>
+
+<Sentence id="4">
+0	ijayavAda	unk
+1	,	unk
+2	repalleV	unk
+3	,	unk
+4	macilIpatnaM	unk
+5	,	unk
+6	hExarAbAxu	unk
+7	,	unk
+8	mAcarla	unk
+9	,	unk
+10	weVnAli	unk
+11	moVxalEna	unk
+12	pattaNAlaku	unk
+13	rElu	unk
+14	mArgaM	unk
+15	xvArA	unk
+16	kalapabadi	unk
+17	unnaxi.guMtUru-weVnAli	unk
+18	rElumArgAnni	unk
+19	dabliMg	unk
+20	vixyuxIkaraNa	unk
+21	,	unk
+22	guMtUrulo	unk
+23	maro	unk
+24	pit	unk
+25	lEn	unk
+26	erpAtu	unk
+27	,	unk
+28	nallapAdu	unk
+29	-	unk
+30	pagidipalli	unk
+31	maXya	unk
+32	dabliMg	unk
+33	,	unk
+34	vixyuxIkaraNa	unk
+35	,	unk
+36	vinukoVMda	unk
+37	-	unk
+38	viRNupuraM	unk
+39	,	unk
+40	nadikudi	unk
+41	-	unk
+42	SrIkAlYahaswi	unk
+43	nUwana	unk
+44	rElu	unk
+45	mArgaM	unk
+46	erpAtu	unk
+47	lAMti	unk
+48	panulu	unk
+49	peVMdiMg	unk
+50	lo	unk
+51	unnAyi	unk
+52	.	unk
+</Sentence>
+
+<Sentence id="5">
+0	guMtUru	unk
+1	pramuKa	unk
+2	vixyA	unk
+3	keMxramu	unk
+4	mariyu	unk
+5	vyApAra	unk
+6	keMxramu	unk
+7	.	unk
+</Sentence>
+
+<Sentence id="6">
+0	guMtUru	unk
+1	prawyekawalu	unk
+</Sentence>
+
+<Sentence id="7">
+0	-	unk
+1	-	unk
+2	1868	unk
+3	,	unk
+4	AgaRtu	unk
+5	18	unk
+6	na	unk
+7	guMtUrulo	unk
+8	nuMdi	unk
+9	saMpUrNa	unk
+10	sUrya	unk
+11	grahaNAnni	unk
+12	cUswU	unk
+13	piyarI	unk
+14	jUls	unk
+15	sIjar	unk
+16	hAnseVn	unk
+17	ane	unk
+18	SAswravewwa	unk
+19	hIliyaM	unk
+20	unikini	unk
+21	kanugoVnnAdu	unk
+22	.	unk
+</Sentence>
+
+<Sentence id="8">
+0	appati	unk
+1	sUryagrahaNaM	unk
+2	asAXAraNaMgA	unk
+3	10	unk
+4	nimuRAla	unk
+5	sepu	unk
+6	vacci	unk
+7	,	unk
+8	eVMxaro	unk
+9	SAswravewwalanu	unk
+10	AkarRiMciMxi	unk
+11	.	unk
+</Sentence>
+
+<Sentence id="9">
+0	-	unk
+1	-	unk
+2	moVxati	unk
+3	prayANaMlone	unk
+4	munigipoyina	unk
+5	appati	unk
+6	awi	unk
+7	peVxxa	unk
+8	prayANIkula	unk
+9	oda	unk
+10	-	unk
+11	tEtAnik	unk
+12	nOka	unk
+13	lonunna	unk
+14	oVka	unk
+15	kutuMbaM	unk
+16	guMtUru	unk
+17	ku	unk
+18	saMbaMXiMcinaxi	unk
+19	.	unk
+</Sentence>
+
+<Sentence id="10">
+0	-	unk
+1	-	unk
+2	pAkiswAn	unk
+3	erpAtuku	unk
+4	karwa	unk
+5	ayina	unk
+6	moVhammaxu	unk
+7	AlI	unk
+8	jinnA	unk
+9	perita	unk
+10	guMtUrulo	unk
+11	oVka	unk
+12	sWUpaM	unk
+13	unnaxi	unk
+14	.	unk
+</Sentence>
+
+<Sentence id="11">
+0	(	unk
+1	hiMxU	unk
+2	pawrikaloni	unk
+3	I	unk
+4	vyAsaM	unk
+5	xIni	unk
+6	prawyekawanu	unk
+7	vivariswuMxi	unk
+8	)	unk
+10	-	unk
+11	-	unk
+12	guMtUru	unk
+13	yoVkka	unk
+14	prAcIna	unk
+15	nAmamu	unk
+16	garwapuri	unk
+17	.	unk
+</Sentence>
+
+<Sentence id="12">
+0	-	unk
+1	-	unk
+2	guMtUru	unk
+3	nagaraMloni	unk
+4	rAmacaMxrApura	unk
+5	agrahAraM	unk
+6	awipurAwanamEna	unk
+7	prAMwaM	unk
+8	.	unk
+</Sentence>
+
+<Sentence id="13">
+0	-	unk
+1	-	unk
+2	svAwaMwrya	unk
+3	samarayoXudu	unk
+4	,	unk
+5	rAjakIyavewwa	unk
+6	vAvilAla	unk
+7	gopAlakriRNayya	unk
+8	gAri	unk
+9	janmasWalaM	unk
+10	guMtUru	unk
+11	.	unk
+</Sentence>
+
+<Sentence id="14">
+0	-	unk
+1	-	unk
+2	guMtUru	unk
+3	nagarAniki	unk
+4	vixya	unk
+5	,	unk
+6	Arogya	unk
+7	raMgAlalo	unk
+8	maMci	unk
+9	gurwiMpu	unk
+10	galaxu	unk
+11	.	unk
+</Sentence>
+
+<Sentence id="15">
+0	-	unk
+1	-	unk
+2	keMxrIya	unk
+3	vyavasAya	unk
+4	pariSoXana	unk
+5	keMxramu	unk
+6	guMtUru	unk
+7	samIpamuloni	unk
+8	lAM	unk
+9	vaxxa	unk
+10	kalaxu	unk
+11	.	unk
+</Sentence>
+
+<Sentence id="16">
+0	iccata	unk
+1	viviXa	unk
+2	vyavasAya	unk
+3	uwpawwulalo	unk
+4	sarikroVwwa	unk
+5	vaMgadAlanu	unk
+6	kanugoVnadAniki	unk
+7	pariSoXona	unk
+8	jarugunu	unk
+9	.	unk
+</Sentence>
+
+<Sentence id="17">
+0	-	unk
+1	-	unk
+2	guMtUru	unk
+3	poVgAku	unk
+4	vyApArAniki	unk
+5	mariyu	unk
+6	mirci	unk
+7	,	unk
+8	prawwi	unk
+9	uwpawwiki	unk
+10	bAgA	unk
+11	prasixxi	unk
+12	ceVMxinaxi	unk
+13	.	unk
+</Sentence>
+
+<Sentence id="18">
+0	-	unk
+1	-	unk
+2	aBrakamu	unk
+3	(	unk
+4	mEkA	unk
+5	)	unk
+6	2200	unk
+7	saMvawsarAla	unk
+8	kriwamu	unk
+9	moVxata	unk
+10	guMtUru	unk
+11	prAMwamu	unk
+12	loVne	unk
+13	kanugoVnapadiMxi	unk
+14	.	unk
+</Sentence>
+
+<Sentence id="19">
+0	-	unk
+1	-	unk
+2	woVli	unk
+3	BArawa	unk
+4	kalYASAlalo	unk
+5	oVkatEna	unk
+6	AMXra	unk
+7	krEswava	unk
+8	kalYASAla	unk
+9	1885	unk
+10	loV	unk
+11	guMtUrulo	unk
+12	sWApiMcabadinaxi	unk
+13	.	unk
+</Sentence>
+
+<Sentence id="20">
+0	guMtUru	unk
+1	maMdalaMloni	unk
+2	grAmAlu	unk
+</Sentence>
+
+<Sentence id="21">
+0	-	unk
+1	-	unk
+2	cinapalakalUru	unk
+</Sentence>
+
+<Sentence id="22">
+0	-	unk
+1	-	unk
+2	peVxapalakalUru	unk
+</Sentence>
+
+<Sentence id="23">
+0	-	unk
+1	-	unk
+2	joVnnalagadda	unk
+</Sentence>
+
+<Sentence id="24">
+0	-	unk
+1	-	unk
+2	goraMtla	unk
+3	(	unk
+4	guMtUru	unk
+5	maMdalaM	unk
+6	)	unk
+8	-	unk
+9	-	unk
+10	nallapAdu	unk
+11	(	unk
+12	grAmINa	unk
+13	)	unk
+15	-	unk
+16	-	unk
+17	nallaguMta	unk
+</Sentence>
+
+<Sentence id="25">
+0	-	unk
+1	-	unk
+2	guMtUru	unk
+3	(	unk
+4	grAmINa	unk
+5	)	unk
+7	-	unk
+8	-	unk
+9	akkireVddipAleVM	unk
+10	(	unk
+11	grAmINa	unk
+12	)	unk
+14	-	unk
+15	-	unk
+16	poVwwUru	unk
+</Sentence>
+
+<Sentence id="26">
+0	-	unk
+1	-	unk
+2	cOdavaraM	unk
+</Sentence>
+
+<Sentence id="27">
+0	-	unk
+1	-	unk
+2	etukUru	unk
+</Sentence>
+
+<Sentence id="28">
+0	-	unk
+1	-	unk
+2	budaMpAdu	unk
+</Sentence>
+
+<Sentence id="29">
+0	-	unk
+1	-	unk
+2	lAlupuraM	unk
+</Sentence>
+
+<Sentence id="30">
+0	puttina	unk
+1	mahAbaleSvar	unk
+2	nuMdi	unk
+3	135	unk
+4	ki.	unk
+5	mI.	unk
+6	la	unk
+7	xUraMlo	unk
+8	koVyinA	unk
+9	naxini	unk
+10	wanalo	unk
+11	kalupukuMtuMxi	unk
+12	.	unk
+</Sentence>
+
+<Sentence id="31">
+0	upanaxulu	unk
+1	annitiwo	unk
+2	kalipina	unk
+3	kqRNA	unk
+4	naxI	unk
+5	vyavasWa	unk
+6	yoVkka	unk
+7	moVwwaM	unk
+8	parIvAhaka	unk
+9	prAMwaM	unk
+10	2,56,000	unk
+11	ca.	unk
+12	ki.	unk
+13	mI.	unk
+14	iMxulo	unk
+15	mUdu	unk
+16	parIvAhaka	unk
+17	.	unk
+</Sentence>
+
+<Sentence id="32">
+0	rARtrAla	unk
+1	vAtA	unk
+2	ilA	unk
+3	uMxi	unk
+4	:	unk
+</Sentence>
+
+<Sentence id="33">
+0	-	unk
+1	-	unk
+2	mahArARtra	unk
+3	:	unk
+4	26.8	unk
+5	%	unk
+</Sentence>
+
+<Sentence id="34">
+0	-	unk
+1	-	unk
+2	karNAtaka	unk
+3	:	unk
+4	43.8	unk
+5	%	unk
+</Sentence>
+
+<Sentence id="35">
+0	-	unk
+1	-	unk
+2	AMXra	unk
+3	praxeS	unk
+4	:	unk
+5	29.4	unk
+6	%	unk
+</Sentence>
+
+<Sentence id="36">
+0	-	unk
+1	-	unk
+2	SrISElaM	unk
+3	:	unk
+4	xvAxaSa	unk
+5	jyowirliMgAlalo	unk
+6	oVkatEna	unk
+7	AlayaM	unk
+8	.	unk
+</Sentence>
+
+<Sentence id="37">
+0	prasixXa	unk
+1	SivakRewramEna	unk
+2	SrISElaMlo	unk
+3	BramarAMba	unk
+4	,	unk
+5	mallikArjuna	unk
+6	svAmi	unk
+7	koVluvE	unk
+8	unnAru	unk
+9	.	unk
+</Sentence>
+
+<Sentence id="38">
+0	xvAxaSa	unk
+1	jyowirliMgAlalo	unk
+2	oVkati	unk
+3	,	unk
+4	SrISElaM	unk
+5	.	unk
+</Sentence>
+
+<Sentence id="39">
+0	-	unk
+1	-	unk
+2	AlaMpUr	unk
+3	:	unk
+4	aRtAXaSa	unk
+5	Sakwi	unk
+6	pITAlalo	unk
+7	oVkatEna	unk
+8	AlayaM	unk
+9	,	unk
+10	navabrahma	unk
+11	AlayAlu	unk
+12	moVxalagu	unk
+13	xevAlaya	unk
+14	samuxAyAlunna	unk
+15	AlaMpUr	unk
+16	cAlYukya	unk
+17	rAjula	unk
+18	Alaya	unk
+19	Silpa	unk
+20	nirmANAniki	unk
+21	axxaM	unk
+22	padawAyi	unk
+23	.	unk
+</Sentence>
+
+<Sentence id="40">
+0	-	unk
+1	-	unk
+2	SrIxurgA	unk
+3	malleSvara	unk
+4	svAmi	unk
+5	kRewraM	unk
+6	(	unk
+7	kanakaxurga	unk
+8	)	unk
+9	-	unk
+10	vijayavAda	unk
+</Sentence>
+
+<Sentence id="41">
+0	-	unk
+1	-	unk
+2	amarAvawi	unk
+3	:	unk
+4	amarArAmaM	unk
+5	ikkada	unk
+6	Sivudu	unk
+7	amaraliMgeSvara	unk
+8	svAmi	unk
+9	gA	unk
+10	pUjalaMxukuMtAdu	unk
+11	.	unk
+</Sentence>
+
+<Sentence id="42">
+0	bOxXula	unk
+1	ArAmalaku	unk
+2	kUdA	unk
+3	ixi	unk
+4	prasixXi	unk
+5	.	unk
+</Sentence>
+
+<Sentence id="43">
+0	-	unk
+1	-	unk
+2	mopixevi	unk
+3	:	unk
+4	I	unk
+5	prasixXa	unk
+6	kRewramulo	unk
+7	nAga	unk
+8	pUjalu	unk
+9	ceswAru	unk
+10	.	unk
+</Sentence>
+
+<Sentence id="44">
+0	karNAtaka	unk
+</Sentence>
+
+<Sentence id="45">
+0	-	unk
+1	-	unk
+2	alamatti	unk
+3	prAjeVktu	unk
+</Sentence>
+
+<Sentence id="46">
+0	-	unk
+1	-	unk
+2	nArAyaNapUr	unk
+3	prAjeVktu	unk
+</Sentence>
+
+<Sentence id="47">
+0	SIwAkAlaMlo	unk
+1	callagAnU	unk
+2	poVdigAnu	unk
+3	,	unk
+4	sarAsari	unk
+5	uRNograwa	unk
+6	25	unk
+7	seV.	unk
+8	gre.	unk
+9	nu	unk
+10	kaligi	unk
+11	vunnavi	unk
+12	.	unk
+</Sentence>
+
+<Sentence id="48">
+0	I	unk
+1	adavula	unk
+2	varRapunIru	unk
+3	guMdlakamma	unk
+4	naxilo	unk
+5	kaluswAyi	unk
+6	.	unk
+</Sentence>
+
+<Sentence id="49">
+0	seVpteVMbar	unk
+1	2	unk
+2	,	unk
+3	2009	unk
+</Sentence>
+
+<Sentence id="50">
+0	2	unk
+1	,	unk
+2	seVpteVMbar	unk
+3	2009	unk
+</Sentence>
+
+<Sentence id="51">
+0	2009	unk
+1	,	unk
+2	seVpteVMbar	unk
+3	2	unk
+</Sentence>
+
+<Sentence id="52">
+0	Fri	unk
+1	,	unk
+2	22	unk
+3	May	unk
+4	1998	unk
+</Sentence>
+
+<Sentence id="53">
+0	24:02:1979	unk
+</Sentence>
+
+<Sentence id="54">
+0	24.02.1979	unk
+</Sentence>
+
+<Sentence id="55">
+0	24/02/1979	unk
+</Sentence>
+
+<Sentence id="56">
+0	24/Feb	unk
+1	1979	unk
+</Sentence>
+
+<Sentence id="57">
+0	24	unk
+1	Feb	unk
+2	1979	unk
+</Sentence>
+
+<Sentence id="58">
+0	24	unk
+1	Feb	unk
+2	,	unk
+3	1979	unk
+</Sentence>
+
+<Sentence id="59">
+0	40	unk
+1	$	unk
+2	kosaM	unk
+3	.	unk
+</Sentence>
+
+<Sentence id="60">
+0	40	unk
+1	#	unk
+2	kosaM	unk
+3	.	unk
+</Sentence>
+
+<Sentence id="61">
+0	40	unk
+1	%	unk
+2	kosaM	unk
+3	.	unk
+</Sentence>
+
+<Sentence id="62">
+0	2	unk
+1	^	unk
+2	3	unk
+3	=	unk
+4	8	unk
+5	.	unk
+</Sentence>
+
+<Sentence id="63">
+0	<	unk
+1	3	unk
+2	*	unk
+3	3	unk
+4	+	unk
+5	9	unk
+6	=	unk
+7	18	unk
+8	>	unk
+9	.	unk
+</Sentence>
+
+<Sentence id="64">
+0	type	unk
+1	of	unk
+2	numbers	unk
+3	:	unk
+4	20.09	unk
+5	,	unk
+6	.09	unk
+7	,	unk
+8	0.001	unk
+9	,	unk
+10	10,001.09	unk
+11	,	unk
+12	4,45,100	unk
+13	,	unk
+14	50670	unk
+</Sentence>
+
+<Sentence id="65">
+0	7	unk
+1	Fri	unk
+2	May	unk
+3	22	unk
+4	12:21:28	unk
+5	1998	unk
+</Sentence>
+
+<Sentence id="66">
+0	10.0.0.21:3128	unk
+</Sentence>
+
+<Sentence id="67">
+0	10.0.0.21	unk
+</Sentence>
+
+<Sentence id="68">
+0	(	unk
+1	8.6.12/8.6.9	unk
+2	)	unk
+4	(	unk
+5	8.6.12-8.6.9	unk
+6	)	unk
+8	1/2	unk
+9	aMte	unk
+10	0.5	unk
+11	.	unk
+</Sentence>
+
+<Sentence id="69">
+0	(	unk
+1	1123	unk
+2	janavari	unk
+3	9	unk
+4	)	unk
+6	3:4	unk
+7	oVka	unk
+8	viBAjya	unk
+9	saMkya	unk
+10	.	unk
+</Sentence>
+
+<Sentence id="70">
+0	adavi	unk
+1	maniRi	unk
+2	peVlYlAM	unk
+</Sentence>
+
+<Sentence id="71">
+0	-	unk
+1	-	unk
+2	--	unk
+3	-	unk
+4	--	unk
+5	-	unk
+6	--	unk
+7	-	unk
+8	--	unk
+9	-	unk
+10	--	unk
+11	-	unk
+12	--	unk
+13	-	unk
+14	--	unk
+</Sentence>
+
+<Sentence id="72">
+0	"	unk
+1	uMxo	unk
+2	lexo	unk
+3	,	unk
+4	ikkada	unk
+5	+	unk
+6	eVlA	unk
+7	weVluswuMxi.....iMtikI	unk
+8	paxa	unk
+9	"	unk
+10	annAdu	unk
+11	reVMdo	unk
+12	varwakudu	unk
+13	.	unk
+</Sentence>
+
+<Sentence id="73">
+0	"	unk
+1	uMxo	unk
+2	lexo	unk
+3	,	unk
+4	ikkada	unk
+5	+	unk
+6	eVlA	unk
+7	weVluswuMxi...iMtikI	unk
+8	paxa	unk
+9	"	unk
+10	annAdu	unk
+11	reVMdo	unk
+12	varwakudu	unk
+13	.	unk
+</Sentence>
+
+<Sentence id="74">
+0	"	unk
+1	uMxo	unk
+2	lexo	unk
+3	,	unk
+4	ikkada	unk
+5	+	unk
+6	eVlA	unk
+7	weVluswuMxi..iMtikI	unk
+8	paxa	unk
+9	"	unk
+10	annAdu	unk
+11	reVMdo	unk
+12	varwakudu	unk
+13	.	unk
+</Sentence>
+
+<Sentence id="75">
+0	alanAti	unk
+1	dAn	unk
+2	(	unk
+3	ju	unk
+4	)	unk
+5	vAn	unk
+6	.	unk
+</Sentence>
+
+<Sentence id="76">
+0	mAvAdu	unk
+1	(	unk
+2	anagA	unk
+3	mA	unk
+4	cuttaM	unk
+5	)	unk
+6	wanakI	unk
+7	maXya	unk
+8	warucugA	unk
+9	kanipiswunnAtta	unk
+10	,	unk
+11	neneVMxu	unk
+12	cewano	unk
+13	kanipiMcilexata	unk
+14	.	unk
+</Sentence>
+
+<Sentence id="77">
+0	neneVkkada	unk
+1	uMtunnAnonata	unk
+2	?	unk
+</Sentence>
+
+<Sentence id="78">
+0	A	unk
+1	viRayaM	unk
+2	guriMci	unk
+3	....	unk
+4	axemitaMte	unk
+5	....	unk
+6	oVkkoVkkasAri	unk
+7	,	unk
+8	oVkkoVkka	unk
+9	maniRini	unk
+10	cUswe	unk
+11	mIku	unk
+12	anipiswuMxo	unk
+13	lexo	unk
+14	-	unk
+15	axi	unk
+16	iMtyURane	unk
+17	anukoMdi	unk
+18	.	unk
+</Sentence>
+
+<Sentence id="79">
+0	leka	unk
+1	gAdixagudde	unk
+2	anukoMdi	unk
+3	-	unk
+4	"	unk
+5	ayiwIrAli	unk
+6	.	unk
+</Sentence>
+
+<Sentence id="80">
+0	vIni	unk
+1	BArya	unk
+2	oVka	unk
+3	BUloka	unk
+4	suMxari	unk
+5	"	unk
+6	anipiswuMxi	unk
+7	.	unk
+</Sentence>
+
+<Sentence id="81">
+0	"	unk
+1	maniRi	unk
+2	ani	unk
+3	weVlusukoMdi	unk
+4	cAlu	unk
+5	!	unk
+6	"	unk
+7	aMxi	unk
+8	AmeV	unk
+9	.	unk
+</Sentence>
+
+<Sentence id="82">
+0	osi	unk
+1	nI	unk
+2	xuMpaweVga	unk
+3	!	unk
+</Sentence>
+
+<Sentence id="83">
+0	"	unk
+1	xurmArgaM	unk
+2	aMwA	unk
+3	nAxI	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="84">
+0	nI	unk
+1	PreVMdu	unk
+2	....	unk
+3	maMcivAde	unk
+4	....	unk
+5	"	unk
+</Sentence>
+
+<Sentence id="85">
+0	[	unk
+1	1	unk
+2	]	unk
+3	vijayanagara	unk
+4	sAmrAjyamu	unk
+5	vicCinnamEnapudu	unk
+6	,	unk
+7	paxihedava	unk
+8	SawAbxaM	unk
+9	maXya	unk
+10	prAMwaMlo	unk
+11	abxullA	unk
+12	kuwub	unk
+13	RA	unk
+14	senAni	unk
+15	mIr	unk
+16	jumlA	unk
+17	kumAra	unk
+18	wimmAnAyuniki	unk
+19	maMwri	unk
+20	poVxili	unk
+21	liMganna	unk
+22	xvArA	unk
+23	viRa	unk
+24	prayogamu	unk
+25	ceyiMci	unk
+26	I	unk
+27	kotanu	unk
+28	svAXIna	unk
+29	paracukoVnnAdu	unk
+30	.	unk
+</Sentence>
+
+<Sentence id="86">
+0	gaMdikota	unk
+1	vijayanagara	unk
+2	sAmrAjya	unk
+3	kAlamulo	unk
+4	uxayagiri	unk
+5	maMdalamu	unk
+6	(	unk
+7	prAMwamu	unk
+8	)	unk
+9	loni	unk
+10	oVka	unk
+11	sImaku	unk
+12	rAjaXAnigA	unk
+13	uMdexi	unk
+14	.	unk
+</Sentence>
+
+<Sentence id="87">
+0	16va	unk
+1	SawAbxapu	unk
+2	reVMdava	unk
+3	arXaBAgamulo	unk
+4	gaMdikotanu	unk
+5	peVmmasAni	unk
+6	nAyakulu	unk
+7	wimmAnAyudu	unk
+8	,	unk
+9	rAmaliMganAyudu	unk
+10	vijayanagara	unk
+11	rAjula	unk
+12	sAmaMwulugA	unk
+13	pAliMcAru	unk
+14	.	unk
+</Sentence>
+
+<Sentence id="88">
+0	gaMdikota	unk
+1	jammalamadugu	unk
+2	nuMci	unk
+3	padamaragA	unk
+4	xAxApu	unk
+5	Aru	unk
+6	mElYlYa	unk
+7	xUraMlo	unk
+8	oVka	unk
+9	parvawa	unk
+10	SreNipE	unk
+11	14-49	unk
+12	'	unk
+13	uwwara	unk
+14	akRAMSamu	unk
+15	,	unk
+16	79-17	unk
+17	'	unk
+18	wUrpu	unk
+19	reKAMSamula	unk
+20	vaxxa	unk
+21	unnaxi	unk
+22	.	unk
+</Sentence>
+
+<Sentence id="89">
+0	raMganAWAlayaM	unk
+1	:	unk
+2	I	unk
+3	AlayaM	unk
+4	guriMcina	unk
+5	moVttamoVxati	unk
+6	praswAvana	unk
+7	Sa.1479	unk
+8	(	unk
+9	krI.Sa.1557	unk
+10	)	unk
+11	nAti	unk
+12	oVka	unk
+13	SAsanaMlo	unk
+14	kanipiswuMxi	unk
+15	.	unk
+</Sentence>
+
+<Sentence id="90">
+0	"	unk
+1	alAgA	unk
+2	..	unk
+3	!	unk
+4	maMcixi	unk
+5	svAmI	unk
+6	..	unk
+7	nenoVka	unk
+8	cinna	unk
+9	praSna	unk
+10	veswAnu	unk
+11	.	unk
+</Sentence>
+
+<Sentence id="91">
+0	javAbu	unk
+1	ceVppagalarA	unk
+2	..	unk
+3	?	unk
+4	"	unk
+</Sentence>
+
+<Sentence id="92">
+0	XarmA	unk
+1	:	unk
+2	{	unk
+3	Alocanawo	unk
+4	}	unk
+5	neVlA	unk
+6	neVnlA	unk
+7	paxirojulayinaxi	unk
+8	.	unk
+</Sentence>
+
+<Sentence id="93">
+0	rANi	unk
+1	:	unk
+2	bAbu	unk
+3	!	unk
+4	pATaSAla	unk
+5	weVrYaci	unk
+6	yeVnnAllYayinaxi	unk
+7	?	unk
+</Sentence>
+
+<Sentence id="94">
+0	ixi	unk
+1	jAwIya	unk
+2	sagatu	unk
+3	akRarAsyawa	unk
+4	kaMte	unk
+5	(	unk
+6	59.5	unk
+7	%	unk
+8	)	unk
+9	eVkkuva	unk
+10	.	unk
+</Sentence>
+
+<Sentence id="95">
+0	xarSiMcavalasina	unk
+1	praxeSAlu	unk
+</Sentence>
+
+<Sentence id="96">
+0	SqMgerilo	unk
+1	muKyamEna	unk
+2	xarSanIya	unk
+3	viSeRAlu	unk
+</Sentence>
+
+<Sentence id="97">
+0	1.SAraxAMba	unk
+1	xevAlayaM	unk
+</Sentence>
+
+<Sentence id="98">
+0	2.vixyASaMkara	unk
+1	xevAlayaM	unk
+</Sentence>
+
+<Sentence id="99">
+0	3.Axi	unk
+1	SaMkurala	unk
+2	xevAlayaM	unk
+</Sentence>
+
+<Sentence id="100">
+0	4.narasiMhavanaM	unk
+</Sentence>
+
+<Sentence id="101">
+0	5.wuMga	unk
+1	naxi	unk
+</Sentence>
+
+<Sentence id="102">
+0	janavari	unk
+1	24	unk
+2	,	unk
+3	1757lo	unk
+4	bussI	unk
+5	boVbbilipE	unk
+6	cesina	unk
+7	xAdi	unk
+8	BArawa	unk
+9	cariwralo	unk
+10	oVka	unk
+11	marapurAni	unk
+12	GattaM	unk
+13	.	unk
+</Sentence>
+
+<Sentence id="103">
+0	avannI	unk
+1	kalasi	unk
+2	meVlasi	unk
+3	brawukuwU	unk
+4	..	unk
+5	eVMdA	unk
+6	,	unk
+7	vAnA	unk
+8	wedA	unk
+9	lekuMdA	unk
+10	..	unk
+11	eVra	unk
+12	poVrupulu	unk
+13	rAkuMdA	unk
+14	kalakAlaM	unk
+15	callagA	unk
+16	jIviswunnAyi	unk
+17	.	unk
+</Sentence>
+
+<Sentence id="104">
+0	1835va	unk
+1	saMvawsaraMlo	unk
+2	sWApiMcina	unk
+3	maxrAsu	unk
+4	kalYASAla	unk
+5	BArawa	unk
+6	upaKaMdaMlone	unk
+7	purAwana	unk
+8	kAlYASAla	unk
+9	[	unk
+10	9	unk
+11	]	unk
+12	.	unk
+</Sentence>
+
+<Sentence id="105">
+0	I	unk
+1	machine	unk
+2	IP	unk
+3	192.168.1.190	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="106">
+0	nA	unk
+1	email	unk
+2	:	unk
+3	rashid101b@gmail.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="107">
+0	nA	unk
+1	email	unk
+2	:	unk
+3	9966443729@gmail.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="108">
+0	nA	unk
+1	email	unk
+2	:	unk
+3	rashid.ahmed@research.iiit.ac.in	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="109">
+0	nA	unk
+1	email	unk
+2	:	unk
+3	rashid101b@gmail.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="110">
+0	nI	unk
+1	email	unk
+2	:	unk
+3	rams123kl@gmail.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="111">
+0	nA	unk
+1	email	unk
+2	:	unk
+3	eftha_chris@gmail.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="112">
+0	nA	unk
+1	mobile	unk
+2	no	unk
+3	:	unk
+4	+	unk
+5	91-965-201-1464	unk
+6	.	unk
+</Sentence>
+
+<Sentence id="113">
+0	nA	unk
+1	mobile	unk
+2	no:04023010564	unk
+3	.	unk
+</Sentence>
+
+<Sentence id="114">
+0	nA	unk
+1	mobile	unk
+2	no:040-23010564	unk
+3	.	unk
+</Sentence>
+
+<Sentence id="115">
+0	nA	unk
+1	mobile	unk
+2	no	unk
+3	:	unk
+4	+	unk
+5	91-40-23010564	unk
+6	.	unk
+</Sentence>
+
+<Sentence id="116">
+0	nA	unk
+1	mobile	unk
+2	no	unk
+3	:	unk
+4	+	unk
+5	919652011464	unk
+6	.	unk
+</Sentence>
+
+<Sentence id="117">
+0	nA	unk
+1	mobile	unk
+2	no	unk
+3	:	unk
+4	+	unk
+5	91-9652011464	unk
+</Sentence>
+
+<Sentence id="118">
+0	nA	unk
+1	mobile	unk
+2	no:09652011464	unk
+3	.	unk
+</Sentence>
+
+<Sentence id="119">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	www.rashid.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="120">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	http://www.rashid.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="121">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="122">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	https://rashid.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="123">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	__weblink__1/	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="124">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	http://rashid.in	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="125">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	http://rashid.org	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="126">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com/mypage.html	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="127">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com/mypage.php	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="128">
+0	nA	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="129">
+0	nI	unk
+1	website	unk
+2	:	unk
+3	http://rams.com	unk
+4	.	unk
+</Sentence>
+

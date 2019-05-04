@@ -1,0 +1,64 @@
+12-Jan-2013	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.7
+
+	- Urdu language support added.
+	- Punjabi language support added.
+
+08-Jan-2013	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.6
+
+	- issue solved sentence end with ..."... ।", ....'...?' 
+	- Acronym (dEY.) issue solved.
+	- issue remain same in case of indic type email and websites.
+
+07-Jan-2013	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.5
+
+	- acronym/abbreviation list contain both wx and utf data.
+	- Now working with UTF and wx
+	- Multiword with hyphen is currently split as w1-w2 to w1 - w2.
+	- actual decided is w1 -JOIN w2
+	- currently tested for Hindi in detail and Telugu limited.
+	- In this version Telugu basic support added.
+	- file data/tel.arc and tests/input_tel_wx.txt added.
+
+04-Jan-2013	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.4
+
+	- default sentence end marking is new line (\n) in raw text.
+	- currently working on raw text or text file.
+	- Package properly for first release.
+	- other structures support CML, HTML and Document will be added in future
+
+22-Dec-2012	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.3
+
+	- input file option added.
+	- fixed some isses.
+
+20-Dec-2012	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.2
+
+	- Acronym file updated.
+	- website identification improved.
+	- Code structure.
+
+10-Dec-2012	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.1
+
+	- tests cases increase to test.
+	- email identification improved.
+
+12-Nov-2012	Rashid Ahmad	<rashid101b@gmail.com>
+
+	* Version 1.0
+
+	- Base version
+	- This base version take 3-4 months to build

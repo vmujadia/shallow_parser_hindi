@@ -1,0 +1,1118 @@
+<Sentence id="1">
+0	हिन्दूस्तान	unk
+1	हमारा	unk
+2	देश	unk
+3	है	unk
+4	|	unk
+</Sentence>
+
+<Sentence id="2">
+0	मेरा	unk
+1	नाम	unk
+2	राशिद	unk
+3	अहमद	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="3">
+0	राशिद	unk
+1	जब	unk
+2	परीक्षा	unk
+3	में	unk
+4	उत्तीर्ण	unk
+5	हुआ	unk
+6	;	unk
+7	तो	unk
+8	खुशियां	unk
+9	मनाई	unk
+10	गई	unk
+11	;	unk
+12	मिठाइयां	unk
+13	बांटी	unk
+14	गई	unk
+15	।	unk
+</Sentence>
+
+<Sentence id="4">
+0	जीवन	unk
+1	के	unk
+2	रंग	unk
+3	:	unk
+4	हँसी	unk
+5	,	unk
+6	खुशी	unk
+7	और	unk
+8	गम	unk
+9	।	unk
+</Sentence>
+
+<Sentence id="5">
+0	तुम	unk
+1	कब	unk
+2	आये	unk
+3	?	unk
+</Sentence>
+
+<Sentence id="6">
+0	कैकयी	unk
+1	ने	unk
+2	कहा	unk
+3	-	unk
+4	(	unk
+5	सक्रोध	unk
+6	)	unk
+7	चली	unk
+8	जा	unk
+9	मंथरा	unk
+10	।	unk
+</Sentence>
+
+<Sentence id="7">
+0	स्वतंत्रता	unk
+1	मेरा	unk
+2	जन्म	unk
+3	सिध्द	unk
+4	अधिकार	unk
+5	है	unk
+6	-	unk
+7	तिलक	unk
+8	।	unk
+</Sentence>
+
+<Sentence id="8">
+0	पृथ्वीराज	unk
+1	रासो	unk
+2	-	unk
+3	चंदबरदाई	unk
+4	।	unk
+</Sentence>
+
+<Sentence id="9">
+0	माता	unk
+1	-	unk
+2	पिता	unk
+3	का	unk
+4	आदर	unk
+5	करो	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="10">
+0	धर्म	unk
+1	-	unk
+2	अधर्म	unk
+3	को	unk
+4	समझो	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="11">
+0	रात	unk
+1	-	unk
+2	दिन	unk
+3	काम	unk
+4	मत	unk
+5	करो	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="12">
+0	'	unk
+1	सुभाष	unk
+2	'	unk
+3	ने	unk
+4	कहा	unk
+5	-	unk
+6	"	unk
+7	तुम	unk
+8	मुझे	unk
+9	खून	unk
+10	दो	unk
+11	,	unk
+12	मैं	unk
+13	तुम्हें	unk
+14	आजादी	unk
+15	दूंगा	unk
+16	।	unk
+17	"	unk
+</Sentence>
+
+<Sentence id="13">
+0	रमेश	unk
+1	कुमार	unk
+2	कक्षा	unk
+3	११वीं	unk
+4	का	unk
+5	छात्र	unk
+6	है	unk
+7	.	unk
+</Sentence>
+
+<Sentence id="14">
+0	रमेश	unk
+1	कुमार	unk
+2	कक्षा	unk
+3	११	unk
+4	वीं	unk
+</Sentence>
+
+<Sentence id="15">
+0	दिनेश	unk
+1	कुमार	unk
+2	-	unk
+3	-	unk
+4	,	unk
+5	,	unk
+6	-	unk
+7	--	unk
+8	-	unk
+9	,	unk
+10	,	unk
+11	-	unk
+12	-	unk
+</Sentence>
+
+<Sentence id="16">
+0	जितेन्द्र	unk
+1	अग्रवाल	unk
+2	।	unk
+</Sentence>
+
+<Sentence id="17">
+0	ज्ञानेद्र	unk
+1	-	unk
+2	-	unk
+3	,	unk
+4	,	unk
+5	-	unk
+6	--	unk
+7	-	unk
+8	,	unk
+9	,	unk
+10	-	unk
+11	-	unk
+</Sentence>
+
+<Sentence id="18">
+0	तांगे	unk
+1	की	unk
+2	घोड़ी	unk
+3	मर	unk
+4	रही	unk
+5	-	unk
+6	--	unk
+7	-	unk
+8	--	unk
+9	-	unk
+10	।	unk
+</Sentence>
+
+<Sentence id="19">
+0	-	unk
+1	-	unk
+2	--	unk
+3	-	unk
+4	--	unk
+5	कर्ज	unk
+6	था	unk
+7	रहिमन	unk
+8	पानी	unk
+9	-	unk
+10	--	unk
+11	-	unk
+12	--	unk
+13	-	unk
+14	-चून	unk
+15	।	unk
+</Sentence>
+
+<Sentence id="20">
+0	१२	unk
+1	किलो	unk
+2	चिनी	unk
+3	तोलो	unk
+4	।	unk
+</Sentence>
+
+<Sentence id="21">
+0	१३	unk
+1	जून	unk
+2	,	unk
+3	१९९९	unk
+</Sentence>
+
+<Sentence id="22">
+0	४०	unk
+1	,	unk
+2	११९	unk
+3	,	unk
+4	५०	unk
+5	पैसे	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="23">
+0	इसका	unk
+1	निर्माण	unk
+2	1565	unk
+3	ई.	unk
+4	में	unk
+5	'	unk
+6	अकबर	unk
+7	'	unk
+8	ने	unk
+9	करवाया	unk
+10	था	unk
+11	?	unk
+</Sentence>
+
+<Sentence id="24">
+0	यहां	unk
+1	बोली	unk
+2	जाने	unk
+3	वाली	unk
+4	'	unk
+5	मुख्य	unk
+6	'	unk
+7	भाषायें	unk
+8	हैं	unk
+9	:	unk
+10	हिन्दी	unk
+11	,	unk
+12	उर्दू	unk
+13	,	unk
+14	पंजाबी	unk
+15	,	unk
+16	और	unk
+17	अंग्रेज़ी	unk
+18	।	unk
+</Sentence>
+
+<Sentence id="25">
+0	भारत	unk
+1	-	unk
+2	भूटान	unk
+3	तथा	unk
+4	भारत	unk
+5	-	unk
+6	बांग्लादेश	unk
+7	सरहद	unk
+8	कुछ	unk
+9	हिस्सों	unk
+10	में	unk
+11	असम	unk
+12	से	unk
+13	जुड़ी	unk
+14	है	unk
+15	।	unk
+</Sentence>
+
+<Sentence id="26">
+0	यह	unk
+1	शिमला	unk
+2	से	unk
+3	८.६०२	unk
+4	ई.	unk
+5	फुट	unk
+6	ऊँचाई	unk
+7	पर	unk
+8	,	unk
+9	१७	unk
+10	कि.	unk
+11	मी.	unk
+12	दूर	unk
+13	पर	unk
+14	है	unk
+15	।	unk
+</Sentence>
+
+<Sentence id="27">
+0	बी.	unk
+1	आर.	unk
+2	हिल्स	unk
+3	वन्य	unk
+4	जीवों	unk
+5	को	unk
+6	सैलानियों	unk
+7	के	unk
+8	समक्ष	unk
+9	लाती	unk
+10	हैं	unk
+11	।	unk
+</Sentence>
+
+<Sentence id="28">
+0	बी.	unk
+1	आर.	unk
+2	हिल्स	unk
+3	"	unk
+4	वन्य	unk
+5	"	unk
+6	जीवों	unk
+7	को	unk
+8	सैलानियों	unk
+9	के	unk
+10	"	unk
+11	समक्ष	unk
+12	"	unk
+13	लाती	unk
+14	हैं	unk
+15	।	unk
+</Sentence>
+
+<Sentence id="29">
+0	वो	unk
+1	मुझे	unk
+2	बहुत	unk
+3	मानता	unk
+4	भी	unk
+5	है	unk
+6	;	unk
+7	वो	unk
+8	मेरी	unk
+9	बुराई	unk
+10	भी	unk
+11	करता	unk
+12	है	unk
+13	|	unk
+</Sentence>
+
+<Sentence id="30">
+0	यश	unk
+1	-	unk
+2	अपयश	unk
+3	विधि	unk
+4	हाथ	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="31">
+0	ए.	unk
+1	पी.	unk
+2	जे.	unk
+3	अब्दुल	unk
+4	कलाम	unk
+5	हमारे	unk
+6	देश	unk
+7	के	unk
+8	राष्ट्रपति	unk
+9	थें	unk
+10	.	unk
+</Sentence>
+
+<Sentence id="32">
+0	डॉ.	unk
+1	राजेन्द्र	unk
+2	प्रसाद	unk
+3	भारत	unk
+4	के	unk
+5	दूसरे	unk
+6	राष्ट्रपति	unk
+7	थे	unk
+8	।	unk
+</Sentence>
+
+<Sentence id="33">
+0	पं.	unk
+1	जवाहर	unk
+2	लाल	unk
+3	नेहरु	unk
+4	।	unk
+</Sentence>
+
+<Sentence id="34">
+0	मा.	unk
+1	दिनानाथ	unk
+2	पांडेय	unk
+3	।	unk
+</Sentence>
+
+<Sentence id="35">
+0	उदा.	unk
+1	के	unk
+2	लिये	unk
+3	म.	unk
+4	प्र.	unk
+5	भारत	unk
+6	का	unk
+7	ह्रदय	unk
+8	है	unk
+9	।	unk
+</Sentence>
+
+<Sentence id="36">
+0	नागरी	unk
+1	प्रचारिणी	unk
+2	सभा	unk
+3	(	unk
+4	ना.	unk
+5	प्र.	unk
+6	स.	unk
+7	)	unk
+9	वह	unk
+10	घर	unk
+11	चला	unk
+12	गेया	unk
+13	।	unk
+</Sentence>
+
+<Sentence id="37">
+0	-	unk
+1	-	unk
+2	x-	unk
+3	-	unk
+4	x-	unk
+5	-	unk
+</Sentence>
+
+<Sentence id="38">
+0	चारु	unk
+1	चंद्र	unk
+2	की	unk
+3	चंचल	unk
+4	किरणें	unk
+</Sentence>
+
+<Sentence id="39">
+0	x	unk
+1	x	unk
+2	x	unk
+3	x	unk
+4	x	unk
+5	x	unk
+6	x	unk
+7	x	unk
+8	x	unk
+9	x	unk
+10	x	unk
+11	x	unk
+</Sentence>
+
+<Sentence id="40">
+0	स्वच्छ	unk
+1	चांदनी	unk
+2	बिछी	unk
+3	हुई	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="41">
+0	शब्द	unk
+1	भेद	unk
+2	आठ	unk
+3	प्रकार	unk
+4	के	unk
+5	होते	unk
+6	है	unk
+7	:	unk
+8	-	unk
+</Sentence>
+
+<Sentence id="42">
+0	समास	unk
+1	के	unk
+2	छह	unk
+3	भेद	unk
+4	है	unk
+5	:	unk
+6	-	unk
+</Sentence>
+
+<Sentence id="43">
+0	कितनी	unk
+1	बदबू	unk
+2	है	unk
+3	!	unk
+</Sentence>
+
+<Sentence id="44">
+0	Hurrah	unk
+1	!	unk
+2	कितनी	unk
+3	बदबू	unk
+4	है	unk
+5	.	unk
+</Sentence>
+
+<Sentence id="45">
+0	छि	unk
+1	!	unk
+2	छि	unk
+3	!	unk
+4	कितनी	unk
+5	बदबू	unk
+6	है	unk
+7	?	unk
+</Sentence>
+
+<Sentence id="46">
+0	हाय	unk
+1	राम	unk
+2	!	unk
+3	वह	unk
+4	मर	unk
+5	गेया	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="47">
+0	अहा	unk
+1	!	unk
+2	कितना	unk
+3	सुहावना	unk
+4	मौसम	unk
+5	है	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="48">
+0	बल्ले	unk
+1	!	unk
+2	हम	unk
+3	जीत	unk
+4	गये	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="49">
+0	उदारस्य	unk
+1	तृणं	unk
+2	वित्तं	unk
+3	शूरस्य	unk
+4	मरणं	unk
+5	तृणम्	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="50">
+0	विरक्तस्य	unk
+1	तृणं	unk
+2	भार्या	unk
+3	निःस्पृहस्य	unk
+4	तृणं	unk
+5	जगत्	unk
+6	।।	unk
+</Sentence>
+
+<Sentence id="51">
+0	येषां	unk
+1	न	unk
+2	विद्या	unk
+3	,	unk
+4	न	unk
+5	तपो	unk
+6	,	unk
+7	न	unk
+8	दानं	unk
+9	ज्ञानं	unk
+10	न	unk
+11	शीलं	unk
+12	न	unk
+13	गुणो	unk
+14	न	unk
+15	धर्मः	unk
+16	।	unk
+</Sentence>
+
+<Sentence id="52">
+0	ते	unk
+1	मर्त्यलोके	unk
+2	भुवि	unk
+3	भारभूताः	unk
+4	मनुष्यरूपेण	unk
+5	मृगाश्चरन्ति	unk
+6	।।	unk
+</Sentence>
+
+<Sentence id="53">
+0	बे	unk
+1	अदब	unk
+2	आ	unk
+3	गया	unk
+4	,	unk
+5	गुरूर	unk
+6	तेरी	unk
+7	आँखों	unk
+8	में	unk
+9	||	unk
+</Sentence>
+
+<Sentence id="54">
+0	मेरा	unk
+1	जन्म	unk
+2	२४	unk
+3	फरवरी	unk
+4	,	unk
+5	१९७९	unk
+6	मे	unk
+7	हुआ	unk
+8	।	unk
+</Sentence>
+
+<Sentence id="55">
+0	मेरा	unk
+1	जन्म	unk
+2	24	unk
+3	Feb	unk
+4	,	unk
+5	1979	unk
+6	मे	unk
+7	हुआ	unk
+8	।	unk
+</Sentence>
+
+<Sentence id="56">
+0	मेरा	unk
+1	जन्म	unk
+2	24:02:1979	unk
+3	मे	unk
+4	हुआ	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="57">
+0	मेरा	unk
+1	जन्म	unk
+2	24.02.1979	unk
+3	मे	unk
+4	हुआ	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="58">
+0	मेरा	unk
+1	जन्म	unk
+2	24-02-1979	unk
+3	मे	unk
+4	हुआ	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="59">
+0	मेरा	unk
+1	जन्म	unk
+2	24/02/1979	unk
+3	मे	unk
+4	हुआ	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="60">
+0	मेरा	unk
+1	जन्म	unk
+2	24/Feb	unk
+3	1979	unk
+4	मे	unk
+5	हुआ	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="61">
+0	२	unk
+1	*	unk
+2	२	unk
+3	=	unk
+4	४	unk
+</Sentence>
+
+<Sentence id="62">
+0	40	unk
+1	#	unk
+2	ke	unk
+3	liye	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="63">
+0	40	unk
+1	$	unk
+2	ke	unk
+3	liye	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="64">
+0	50	unk
+1	%	unk
+2	ke	unk
+3	liye	unk
+4	.	unk
+</Sentence>
+
+<Sentence id="65">
+0	2	unk
+1	^	unk
+2	3	unk
+3	=	unk
+4	8	unk
+5	.	unk
+</Sentence>
+
+<Sentence id="66">
+0	<	unk
+1	3	unk
+2	*	unk
+3	3	unk
+4	+	unk
+5	9	unk
+6	=	unk
+7	18	unk
+8	>	unk
+9	.	unk
+</Sentence>
+
+<Sentence id="67">
+0	type	unk
+1	of	unk
+2	numbers	unk
+3	:	unk
+4	20.09	unk
+5	,	unk
+6	.09	unk
+7	,	unk
+8	0.001	unk
+9	,	unk
+10	10,001.09	unk
+11	,	unk
+12	4,45,100	unk
+13	,	unk
+14	50670	unk
+15	।	unk
+</Sentence>
+
+<Sentence id="68">
+0	1/2	unk
+1	का	unk
+2	मान	unk
+3	0.5	unk
+4	हैं	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="69">
+0	3:4	unk
+1	एक	unk
+2	अनुपात	unk
+3	हैं	unk
+4	।	unk
+</Sentence>
+
+<Sentence id="70">
+0	...	unk
+1	जलो	unk
+2	और	unk
+3	प्रखरता	unk
+4	से	unk
+5	जलो	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="71">
+0	जलते	unk
+1	रहो	unk
+2	...	unk
+3	स्नेह	unk
+4	इसमें	unk
+5	अभी	unk
+6	भारा	unk
+7	होआ	unk
+8	है	unk
+9	।	unk
+</Sentence>
+
+<Sentence id="72">
+0	...	unk
+1	जलो	unk
+2	और	unk
+3	प्रखरता	unk
+4	से	unk
+5	जलो	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="73">
+0	जलते	unk
+1	रहो	unk
+2	...	unk
+3	स्नेह	unk
+4	इसमें	unk
+5	अभी	unk
+6	भारा	unk
+7	होआ	unk
+8	है	unk
+9	।	unk
+</Sentence>
+
+<Sentence id="74">
+0	...	unk
+1	जलो	unk
+2	और	unk
+3	प्रखरता	unk
+4	से	unk
+5	जलो	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="75">
+0	जलते	unk
+1	रहो	unk
+2	..	unk
+3	स्नेह	unk
+4	इसमें	unk
+5	अभी	unk
+6	भारा	unk
+7	होआ	unk
+8	है	unk
+9	।	unk
+</Sentence>
+
+<Sentence id="76">
+0	...........	unk
+1	जलो	unk
+2	और	unk
+3	प्रखरता	unk
+4	से	unk
+5	जलो	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="77">
+0	जलते	unk
+1	रहो	unk
+2	...........	unk
+3	स्नेह	unk
+4	इसमें	unk
+5	अभी	unk
+6	भारा	unk
+7	होआ	unk
+8	है	unk
+9	।	unk
+</Sentence>
+
+<Sentence id="78">
+0	तुम	unk
+1	(	unk
+2	आम	unk
+3	)	unk
+4	मत	unk
+5	खाना	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="79">
+0	तुम	unk
+1	[	unk
+2	आम	unk
+3	]	unk
+4	मत	unk
+5	खाना	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="80">
+0	तुम	unk
+1	{	unk
+2	आम	unk
+3	}	unk
+4	मत	unk
+5	खाना	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="81">
+0	परा	unk
+1	+	unk
+2	जय	unk
+3	=	unk
+4	पराजय	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="82">
+0	मेरी	unk
+1	mchine	unk
+2	का	unk
+3	IP	unk
+4	192.168.1.190	unk
+5	है	unk
+6	।	unk
+</Sentence>
+
+<Sentence id="83">
+0	मेरा	unk
+1	email	unk
+2	:	unk
+3	rashid101b@gmail.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="84">
+0	मेरा	unk
+1	email	unk
+2	:	unk
+3	9966443729@gmail.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="85">
+0	मेरा	unk
+1	email	unk
+2	:	unk
+3	rashid.ahmed@research.iiit.ac.in	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="86">
+0	मेरा	unk
+1	email	unk
+2	:	unk
+3	rashid101b@gmail.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="87">
+0	तुमहारा	unk
+1	email	unk
+2	:	unk
+3	rams123kl@gmail.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="88">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	www.rashid.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="89">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	http://www.rashid.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="90">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="91">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	https://rashid.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="92">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	__weblink__1/	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="93">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	http://rashid.in	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="94">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	http://rashid.org	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="95">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com/mypage.html	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="96">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com/mypage.php	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="97">
+0	मेरा	unk
+1	website	unk
+2	:	unk
+3	http://rashid.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="98">
+0	तुमहारा	unk
+1	website	unk
+2	:	unk
+3	http://rams.com	unk
+4	है	unk
+5	।	unk
+</Sentence>
+
+<Sentence id="99">
+0	आज	unk
+1	-	unk
+2	कल	unk
+3	हिन्दी	unk
+4	-	unk
+5	लेखन	unk
+6	में	unk
+7	पूर्ण	unk
+8	विराम	unk
+9	(	unk
+10	।	unk
+</Sentence>
+
+<Sentence id="100">
+0	)	unk
+1	की	unk
+2	जगह	unk
+3	बिन्दी	unk
+4	(	unk
+5	:	unk
+6	)	unk
+7	का	unk
+8	प्रयोग	unk
+9	भी	unk
+10	देखा	unk
+11	जा	unk
+12	रहा	unk
+13	है	unk
+14	।	unk
+</Sentence>
+

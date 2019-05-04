@@ -1,0 +1,187 @@
+<Sentence id="1">
+0	موسم	unk
+1	بہار	unk
+2	میں	unk
+3	’	unk
+4	بیشتر	unk
+5	‘	unk
+6	امریکی	unk
+7	جنگی	unk
+8	آپریشنز	unk
+9	ختم	unk
+</Sentence>
+
+<Sentence id="2">
+0	دونوں	unk
+1	رہنماؤں	unk
+2	نے	unk
+3	افغان	unk
+4	حکومت	unk
+5	اور	unk
+6	طالبان	unk
+7	کے	unk
+8	درمیان	unk
+9	دوحا	unk
+10	میں	unk
+11	بات	unk
+12	چیت	unk
+13	کرنے	unk
+14	کی	unk
+15	حمایت	unk
+16	بھی	unk
+17	کی	unk
+18	۔	unk
+</Sentence>
+
+<Sentence id="3">
+0	طاہر	unk
+1	القادری	unk
+2	کا	unk
+3	کہنا	unk
+4	تھا	unk
+5	کہ	unk
+6	’	unk
+7	حکومت	unk
+8	دھاندلی	unk
+9	،	unk
+10	دھونس	unk
+11	اور	unk
+12	’	unk
+13	دہشت	unk
+14	گردی	unk
+15	‘	unk
+16	پر	unk
+17	یقین	unk
+18	رکھتی	unk
+19	ہے	unk
+20	مذاکرات	unk
+21	پر	unk
+22	نہیں	unk
+23	۔	unk
+</Sentence>
+
+<Sentence id="4">
+0	یہ	unk
+1	لوگ	unk
+2	مذاکرات	unk
+3	میں	unk
+4	سنجیدہ	unk
+5	نہیں	unk
+6	ہیں	unk
+7	۔	unk
+</Sentence>
+
+<Sentence id="5">
+0	اب	unk
+1	مارکیٹ	unk
+2	میں	unk
+3	آنے	unk
+4	والے	unk
+5	نئے	unk
+6	جھوٹ	unk
+7	کی	unk
+8	اطلاع	unk
+9	کون	unk
+10	دے	unk
+11	گا	unk
+12	؟	unk
+</Sentence>
+
+<Sentence id="6">
+0	’	unk
+1	حکومت	unk
+2	مذاکرات	unk
+3	میں	unk
+4	سنجیدہ	unk
+5	نہیں	unk
+6	،	unk
+7	مارچ	unk
+8	ہو	unk
+9	گا	unk
+10	‘	unk
+</Sentence>
+
+<Sentence id="7">
+0	بھارت	unk
+1	کی	unk
+2	جانب	unk
+3	سے	unk
+4	یوراج	unk
+5	سنگھ	unk
+6	نے	unk
+7	سب	unk
+8	سے	unk
+9	زیادہ	unk
+10	اکسٹھ	unk
+11	رنز	unk
+12	بنائے	unk
+13	۔	unk
+</Sentence>
+
+<Sentence id="8">
+0	بھارت	unk
+1	کے	unk
+2	ابتدائی	unk
+3	بلے	unk
+4	بازوں	unk
+5	نے	unk
+6	اننگز	unk
+7	کا	unk
+8	آغاز	unk
+9	انتہائی	unk
+10	عمدہ	unk
+11	انداز	unk
+12	میں	unk
+13	کیا	unk
+14	۔	unk
+</Sentence>
+
+<Sentence id="9">
+0	انڈیا	unk
+1	کی	unk
+2	پہلی	unk
+3	وکٹ	unk
+4	چھیانوے	unk
+5	رنز	unk
+6	کے	unk
+7	سکور	unk
+8	پرگری	unk
+9	جب	unk
+10	اوپنر	unk
+11	ریحانے	unk
+12	آؤٹ	unk
+13	ہوئے	unk
+14	۔	unk
+</Sentence>
+
+<Sentence id="10">
+0	بھارت	unk
+1	کے	unk
+2	دوسرے	unk
+3	اوپنر	unk
+4	گوتھم	unk
+5	گھمبیر	unk
+6	بھی	unk
+7	زیادہ	unk
+8	دیر	unk
+9	تک	unk
+10	وکٹ	unk
+11	پر	unk
+12	نہ	unk
+13	جم	unk
+14	سکے	unk
+15	اور	unk
+16	بھارت	unk
+17	کی	unk
+18	دوسری	unk
+19	وکٹ	unk
+20	102	unk
+21	کے	unk
+22	مجموعی	unk
+23	سکور	unk
+24	پر	unk
+25	گر	unk
+26	گئی	unk
+27	۔	unk
+</Sentence>
+

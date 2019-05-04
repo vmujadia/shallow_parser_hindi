@@ -1,0 +1,166 @@
+<Sentence id="1">			
+1	28	unk	
+2	mArca	unk	
+3	se	unk	
+4	2	unk	
+5	apEèrala	unk	
+6	waka	unk	
+7	:	unk	
+8	kakRA	unk	
+9	pahalI	unk	
+10	se	unk	
+11	lekara	unk	
+12	cOWI	unk	
+13	,	unk	
+14	CaTavIM	unk	
+15	Ora	unk	
+16	sAwavIM	unk	
+17	ke	unk	
+18	baccoM	unk	
+19	kA	unk	
+20	vArRika	unk	
+21	mUlyAMkana	unk	
+22	28	unk	
+23	mArca	unk	
+24	se	unk	
+25	2	unk	
+26	apEèrala	unk	
+27	waka	unk	
+28	mOKika	unk	
+29	va	unk	
+30	liKiwa	unk	
+31	meM	unk	
+32	hogA	unk	
+33	.	unk	
+</Sentence>			
+			
+<Sentence id="2">			
+1	mUlyAMkana	unk	
+2	ke	unk	
+3	silasile	unk	
+4	meM	unk	
+5	rAjya	unk	
+6	SikRA	unk	
+7	keMxra	unk	
+8	ne	unk	
+9	saBI	unk	
+10	kakRAoM	unk	
+11	ke	unk	
+12	praSnapawroM	unk	
+13	ke	unk	
+14	blU	unk	
+15	priMta	unk	
+16	loda	unk	
+17	kie	unk	
+18	hE	unk	
+19	.	unk	
+</Sentence>			
+			
+<Sentence id="3">			
+1	inhIM	unk	
+2	priMta	unk	
+3	ke	unk	
+4	AXAra	unk	
+5	para	unk	
+6	SikRaka	unk	
+7	apane	unk	
+8	skUla	unk	
+9	meM	unk	
+10	xarja	unk	
+11	CAwra	unk	
+12	saMKyA	unk	
+13	ke	unk	
+14	mAna	unk	
+15	se	unk	
+16	praSna	unk	
+17	pawroM	unk	
+18	Ora	unk	
+19	uwwara	unk	
+20	puskiÚoM	unk	
+21	kI	unk	
+22	vyavasWA	unk	
+23	kareMge	unk	
+24	.	unk	
+</Sentence>			
+			
+<Sentence id="4">			
+1	isake	unk	
+2	lie	unk	
+3	skUloM	unk	
+4	meM	unk	
+5	rASi	unk	
+6	BI	unk	
+7	BejI	unk	
+8	gaI	unk	
+9	hE	unk	
+10	.	unk	
+</Sentence>			
+			
+<Sentence id="5">			
+1	praSna	unk	
+2	kramAMka	unk	
+3	73	unk	
+4	:	unk	
+5	tiharI	unk	
+6	bAMXa	unk	
+7	kisa	unk	
+8	naxI	unk	
+9	ke	unk	
+10	wata	unk	
+11	para	unk	
+12	banA	unk	
+13	hE	unk	
+14	?	unk	
+</Sentence>			
+			
+<Sentence id="6">			
+1	ApSana	unk	
+2	hEM	unk	
+3	-	unk	
+4	tiharI	unk	
+5	naxI	unk	
+6	,	unk	
+7	yamunA	unk	
+8	naxI	unk	
+9	,	unk	
+10	alakanaMxA	unk	
+11	,	unk	
+12	gaMgA	unk	
+13	.	unk	
+</Sentence>			
+			
+<Sentence id="7">			
+1	sahI	unk	
+2	uwwara	unk	
+3	BAgIraWI	unk	
+4	hE	unk	
+5	jo	unk	
+6	ApSana	unk	
+7	meM	unk	
+8	hE	unk	
+9	hI	unk	
+10	nahIM	unk	
+11	.	unk	
+</Sentence>			
+			
+<Sentence id="8">			
+1	gaMgA	unk	
+2	tiharI	unk	
+3	se	unk	
+4	kAPI	unk	
+5	pahale	unk	
+6	xevaprayAga	unk	
+7	meM	unk	
+8	BAgIraWI	unk	
+9	Ora	unk	
+10	alakanaMxA	unk	
+11	ke	unk	
+12	vilaya	unk	
+13	se	unk	
+14	aswiwva	unk	
+15	meM	unk	
+16	AwI	unk	
+17	hEM	unk	
+18	.	unk	
+</Sentence>			
+			
