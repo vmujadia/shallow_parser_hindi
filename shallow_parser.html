@@ -33,6 +33,23 @@
     </style>
     <!-- Custom styles for this template -->
     <link href="starter-template.css" rel="stylesheet">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+	<script>
+	$(document).ready(function(){
+	  $("#randomsample").click(function(){
+		  $("#text-area").val("सभी बच्चे किताब पढ़ते हैं। ")
+	  });
+	});
+
+	$(document).ready(function(){
+	  $("#getmeanswer").click(function(){
+		  alert('your answer is being processed.')
+	  });
+	});
+
+	</script>
+
   </head>
   <body>
   
@@ -79,89 +96,23 @@
 <main role="main" class="container">
 
   <div class="starter-template">
-    <h1>Language Technologies Research Centre (Demo page)</h1>
+    <h1>Language Technologies Research Centre</h1>
   </div>
-  <div>
-	  <table class="table">
-	  <thead>
-	    <tr>
-	      <th scope="col">#</th>
-	      <th scope="col">Language</th>
-	      <th scope="col">Tool/Data Name</th>
-	      <th scope="col">Description</th>
-	      <th scope="col">Status</th>
-	      <th scope="col">link</th>
-	      <th scope="col">Accuracy</th>
-	      <th scope="col">Notes</th>
-	    </tr>
-	  </thead>
-	  <tbody>
-	    <tr>
-	      <th scope="row">1</th>
-	      <td>Hindi</td>
-	      <td>POS Tagger</td>
-	      <td>link</td>
-	      <td>UP</td>
-	      <td><a href="shallow_parser.html">link</a></td>
-	      <td>90%</td>
-	      <td>-</td>
-	    </tr>
-	    <tr>
-	      <th scope="row">2</th>
-	      <td>Hindi</td>
-	      <td>Morph Analyzer</td>
-	      <td>link</td>
-	      <td>UP</td>
-	      <td><a href="Morph.html">link</a></td>
-	      <td>90%</td>
-	      <td>-</td>
-	    </tr>
-	    <tr>
-	      <th scope="row">3</th>
-	      <td>Hindi</td>
-	      <td>Shallow Parser</td>
-	      <td>link</td>
-	      <td>UP</td>
-	      <td><a href="shallow.html">link</a></td>
-	      <td>90%</td>
-	      <td>-</td>
-	    </tr>
+   <div class="col-sm-12">
+  <div class="input-group">
+  <div class="input-group-prepend">
+    <span class="input-group-text" >Input Text</span>
+  </div>
+  <textarea class="form-control" aria-label="Shallow Parser" id="text-area"></textarea>
 
-	    <tr>
-	      <th scope="row">4</th>
-	      <td>Urdu</td>
-	      <td>POS Tagger</td>
-	      <td>link</td>
-	      <td>UP</td>
-	      <td><a href="shallow_parser.html">link</a></td>
-	      <td>90%</td>
-	      <td>-</td>
-	    </tr>
-	    <tr>
-	      <th scope="row">5</th>
-	      <td>Urdu</td>
-	      <td>Morph Analyzer</td>
-	      <td>link</td>
-	      <td>UP</td>
-	      <td><a href="Morph.html">link</a></td>
-	      <td>90%</td>
-	      <td>-</td>
-	    </tr>
-	    <tr>
-	      <th scope="row">6</th>
-	      <td>Urdu</td>
-	      <td>Shallow Parser</td>
-	      <td>link</td>
-	      <td>UP</td>
-	      <td><a href="shallow.html">link</a></td>
-	      <td>90%</td>
-	      <td>-</td>
-	    </tr>
-
-
-
-	  </tbody>
-	</table>
+  </div>
+   </div>
+  </br> 
+  </br> 
+  <div class="col-md-12 text-center"> 
+    <button type="button" class="btn btn-primary btn-lg" id="getmeanswer">Get Me Answer</button>
+    <button type="button" class="btn btn-info btn-lg" id='randomsample'>Get Random Example</button>
+    <button type="button" class="btn btn-danger btn-lg">Reset</button>
   </div>
 </main><!-- /.container -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
