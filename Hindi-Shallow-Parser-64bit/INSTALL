@@ -17,7 +17,7 @@ Follow the below Steps :
 
   3.2) Set the PATH to the SHALLOW_PARSER_HIN/bin/sl/sys/hin
 
-       echo "export PATH=\$PATH:\$SHALLOW_PARSER_HIN/bin/sys/hin/" >> ~/.bashrc
+       echo "export PATH=$PATH:\$SHALLOW_PARSER_HIN/bin/sys/hin/" >> ~/.bashrc
 
   3.3) Compile the ~/.bashrc
   
