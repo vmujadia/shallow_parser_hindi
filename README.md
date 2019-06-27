@@ -6,10 +6,10 @@
 ## How to run
 
 ### build docker
-- sudo docker build .
+- sudo docker build -t hindi_shallow_parser .
 
 ### how to run docker
-- sudo docker run -v /home/vandan/ltrc/mywork/RAwork/demo.ltrc/outputs/:/root/outputs/ -p 8000:8000 8978fa426ffc
+- sudo docker run -v outputs/:/root/outputs/ -p 8000:8000 -t hindi_shallow_parser
 
 ### how to run curl command
 - curl -i -H "Content-Type: application/json" -X POST -d '{"text":"saBI bacce kiwAba paDZawe hEM ."}' http://127.0.0.1:8000/shallow_parse_hin
