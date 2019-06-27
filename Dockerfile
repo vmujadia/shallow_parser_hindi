@@ -1,14 +1,16 @@
 FROM ubuntu:14.04
-RUN apt-get update && apt-get install -y libgdbm3 libglib2.0-dev make g++
+RUN apt-get update && apt-get install -y libgdbm3 libglib2.0-dev make g++ curl python3-flask
 
-COPY . /shallow_parser_hindi
+COPY Hindi-Shallow-Parser-64bit /shallow_parser_hindi/
 
-ENV SHALLOW_PARSER_HIN="~/sampark/shallow_parser_hin"
+ENV SHALLOW_PARSER_HIN="/root/sampark/shallow_parser_hin"
 
-ENV PATH="$PATH:$SHALLOW_PARSER_HIN/bin/sys/hin"
+ENV PATH="$PATH:$SHALLOW_PARSER_HIN/bin/sys/hin/"
 
-RUN cd /shallow_parser_hindi/Hindi-Shallow-Parser-64bit/
+WORKDIR "/shallow_parser_hindi/"
 
-#RUN make install
-#RUN make /app
-#CMD python /app/app.py
+#RUN cd /shallow_parser_hindi/
+
+RUN make install
+EXPOSE 8000
+CMD python3 python_scripts/run_server.py
