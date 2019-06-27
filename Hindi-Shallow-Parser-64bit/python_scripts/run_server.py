@@ -19,7 +19,7 @@ def create_task():
     file_name = str(time.time()).replace('\.','')
     file_path = os.path.join(path, file_name)
     
-    with open(file_path, 'w') as the_file:
+    with open(file_path, 'w', encoding='utf-8') as the_file:
         the_file.write(request.json['text'])
  
     output_file_path = os.path.join(path, file_name+'.text')
