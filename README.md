@@ -40,9 +40,11 @@ Date: Wed, 26 Jun 2019 15:54:26 GMT
 "
 }
 ```
+### please raise an issue if you find any
 
 ## Maintain BY
 - LTRC, IIIT-Hyderabad, India
-- Vandan Mujadia (vandan.mu@research.iiit.ac.in)
-- Pruthwik Mishra (pruthwik.mishra@research.iiit.ac.in)
+  - Vandan Mujadia (vandan.mu@research.iiit.ac.in)
+  - Pruthwik Mishra (pruthwik.mishra@research.iiit.ac.in)
+
 
