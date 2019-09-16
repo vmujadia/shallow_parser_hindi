@@ -12,5 +12,5 @@ WORKDIR "/shallow_parser_hindi/"
 #RUN cd /shallow_parser_hindi/
 
 RUN make install
-EXPOSE 8000
+EXPOSE 8010
 CMD python3 python_scripts/run_server.py

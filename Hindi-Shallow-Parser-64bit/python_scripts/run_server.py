@@ -19,7 +19,7 @@ def create_task():
     file_name = str(time.time()).replace('\.','')
     file_path = os.path.join(path, file_name)
     
-    with open(file_path, 'w') as the_file:
+    with open(file_path, 'w', encoding='utf-8') as the_file:
         the_file.write(request.json['text'])
  
     output_file_path = os.path.join(path, file_name+'.text')
@@ -32,6 +32,7 @@ def create_task():
     #    'shallow_parsed': data
     #}
     #tasks.append(task)
+    data = "<pre>"+"\n".join(data).replace("<","&lt;").replace(">","&gt;")+"</pre>"
     return jsonify({'shallow_parsed': data}), 201
 
 #file_ = sys.argv[1]
@@ -40,4 +41,4 @@ def create_task():
 
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0',port=8000)
+    app.run(debug=True,host='0.0.0.0',port=8010)
