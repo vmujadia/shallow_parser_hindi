@@ -32,7 +32,7 @@ def create_task():
     #    'shallow_parsed': data
     #}
     #tasks.append(task)
-    data = "<pre>"+"\n".join(data).replace("<","&lt;").replace(">","&gt;")+"</pre>"
+    data = "<pre>"+data.replace("<","&lt;").replace(">","&gt;")+"</pre>"
     return jsonify({'shallow_parsed': data}), 201
 
 #file_ = sys.argv[1]
