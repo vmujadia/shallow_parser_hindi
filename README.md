@@ -23,12 +23,28 @@ Server: Werkzeug/0.9.4 Python/3.4.3
 Date: Wed, 26 Jun 2019 15:54:26 GMT
 
 {
-  "shallow_parsed": "<Sentence id=\"1\">\t\t\t\n1\t((\tNP\t<fs af='बच्चा,n,m,pl,3,d,0,0' head='बच्चे'>\n1.1\tसभी\tQF\t<fs af='सभी,n,m,sg,3,d,0,0' poslcat=\"NM\"  name='सभी'>\n1.2\tबच्चे\tNN\t<fs af='बच्चा,n,m,pl,3,d,0,0' name='बच्चे'>\n\t))\t\t\n2\t((\tNP\t<fs af='किताब,n,f,sg,3,d,0,0' head='किताब'>\n2.1\tकिताब\tNN\t<fs af='किताब,n,f,sg,3,d,0,0' name='किताब'>\n\t))\t\t\n3\t((\tVGF\t<fs af='पढ,v,m,pl,1,,ता_है,wA' vpos=\"tam1_2\"  head='पढ़ते'>\n3.1\tपढ़ते\tVM\t<fs af='पढ,v,m,pl,any,,ता,wA' name='पढ़ते'>\n3.2\t.\tSYM\t<fs af='&डोट्;,punc,,,,,,' name='.'>\n\t))\t\t\n</Sentence>\t\t\t\n"
-
+  "shallow_parsed": "
+<Sentence id="1">         
+1   ((   NP   <fs af='बच्चा,n,m,pl,3,d,0,0' head='बच्चे'>
+1.1   सभी   QF   <fs af='सभी,n,m,sg,3,d,0,0' poslcat="NM"  name='सभी'>
+1.2   बच्चे   NN   <fs af='बच्चा,n,m,pl,3,d,0,0' name='बच्चे'>
+   ))      
+2   ((   NP   <fs af='किताब,n,f,sg,3,d,0,0' head='किताब'>
+2.1   किताब   NN   <fs af='किताब,n,f,sg,3,d,0,0' name='किताब'>
+   ))      
+3   ((   VGF   <fs af='पढ,v,m,pl,1,,ता_है,wA' vpos="tam1_2"  head='पढ़ते'>
+3.1   पढ़ते   VM   <fs af='पढ,v,m,pl,any,,ता,wA' name='पढ़ते'>
+3.2   .   SYM   <fs af='&डोट्;,punc,,,,,,' name='.'>
+   ))      
+</Sentence>         
+"
+}
 ```
+### please raise an issue if you find any
 
 ## Maintain BY
 - LTRC, IIIT-Hyderabad, India
-- Vandan Mujadia (vandan.mu@research.iiit.ac.in)
-- Pruthwik Mishra (pruthwik.mishra@research.iiit.ac.in)
+  - Vandan Mujadia (vandan.mu@research.iiit.ac.in)
+  - Pruthwik Mishra (pruthwik.mishra@research.iiit.ac.in)
+
 
