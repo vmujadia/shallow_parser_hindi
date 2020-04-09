@@ -17,6 +17,7 @@ sh $SHALLOW_PARSER_HIN/bin/sl/postagger/hin/postagger.sh $2/morph.tmp > $2/posta
 # Chunker
 sh $SHALLOW_PARSER_HIN/bin/sl/chunker/hin/chunker.sh $2/postagger.tmp > $2/chunker.tmp
 
+#cat $2/chunker.tmp
 # Language Specific Module end
 
 
@@ -25,4 +26,3 @@ sh $SHALLOW_PARSER_HIN/bin/sl/chunker/hin/chunker.sh $2/postagger.tmp > $2/chunk
 # PRUNING , PICK ONE MORPH, HEAD COMPUTATION, VIBHAKTI COMPUTATION
 perl $SHALLOW_PARSER_HIN/bin/sl/pruning/pruning.pl --path=$SHALLOW_PARSER_HIN/bin/sl/pruning/ --resource=$SHALLOW_PARSER_HIN/data_bin/sl/pruning/mapping.dat < $2/chunker.tmp | perl $SHALLOW_PARSER_HIN/bin/sl/pickonemorph/pickonemorph.pl --path=$SHALLOW_PARSER_HIN/bin/sl/pickonemorph/ | perl $SHALLOW_PARSER_HIN/bin/sl/headcomputation/headcomputation.pl --path=$SHALLOW_PARSER_HIN/bin/sl/headcomputation/ | perl $SHALLOW_PARSER_HIN/bin/sl/vibhakticomputation/vibhakticomputation.pl --path=$SHALLOW_PARSER_HIN/bin/sl/vibhakticomputation/ | perl $SHALLOW_PARSER_HIN/bin/sl/vibhakticomputation/printinput.pl 
 # Language Independent Module end
-
