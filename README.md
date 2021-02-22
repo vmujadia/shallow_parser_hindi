@@ -41,8 +41,11 @@ Date: Wed, 26 Jun 2019 15:54:26 GMT
 }
 ```
 ### please raise an issue if you find any
+## Developed BY
+- LTRC
+   - ILMT Team
 
-## Maintain BY
+## Maintain BY (only this docker version)
 - LTRC, IIIT-Hyderabad, India
   - Vandan Mujadia (vandan.mu@research.iiit.ac.in)
   - Pruthwik Mishra (pruthwik.mishra@research.iiit.ac.in)
